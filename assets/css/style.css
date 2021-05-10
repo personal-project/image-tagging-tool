@@ -1,0 +1,19 @@
+.after-border {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 15px;
+    padding-top: 15px
+}
+.tagging-img {
+    height: 405px;
+    object-fit: cover;
+}
+.form-group {
+    margin-bottom: .3rem;
+}
+.form-group label:not(.form-check-label) {
+    font-weight: 500;
+}
+.save-btn-wrapper {
+    display: flex;
+    justify-content: flex-end;
+}
